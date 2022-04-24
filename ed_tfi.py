@@ -1,9 +1,28 @@
 """
-Exact Diagonalisation code for the dynamics of local quenches.
+Exact Diagonalisation code to illustrate local quench spectroscopy.
 
-CLEAN TRANSVERSE ISING MODEL (SHORT-RANGE)
+---------------------------------------------
+S. J. Thomson
+Dahlem Centre for Complex Quantum Systems, FU Berlin
+steven.thomson@fu-berlin.de
+steventhomson.co.uk / @PhysicsSteve
+https://orcid.org/0000-0001-9065-9842
+---------------------------------------------
 
-Last modified 21/04/22 by S. J. Thomson (steven.thomson@fu-berlin.de).
+This work is licensed under a Creative Commons 
+Attribution-NonCommercial-ShareAlike 4.0 International License. This work may
+be edited and shared by others, provided the author of this work is credited 
+and any future authors also freely share and make their work available. This work
+may not be used or modified by authors who do not make any derivative work 
+available under the same conditions. This work may not be modified and used for
+any commercial purpose, in whole or in part. For further information, see the 
+license details at https://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+This work is distributed without any form of warranty or committment to provide technical 
+support, nor the guarantee that it is free from bugs or technical incompatibilities
+with all possible computer systems. Use, modify and troubleshoot at your own risk.
+
+If you do use any of this code, please cite https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.033337.
 
 """
 #==============================================================================
