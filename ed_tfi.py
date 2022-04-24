@@ -117,7 +117,7 @@ def ED(h,J0):
     plt.colorbar(fig, orientation = 'vertical',extend='max')
     plt.xlabel(r'$R$')
     plt.ylabel(r'$t$')
-    plt.text(11.5,20,r'$\langle n_R (t) \rangle$')
+    plt.text(11.7,20.5,r'$\langle \sigma^y_R (t) \rangle$')
     plt.savefig('fig1.png',dpi=150,bbox_inches='tight')
     plt.show()
     plt.close()
